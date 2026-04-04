@@ -179,3 +179,13 @@ header nav {
         right: 1rem;
     }
 }
+
+@media (min-width: 1920px) {
+
+    .inner-container {
+        max-width: 1820px;
+        margin: 0 auto;
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
